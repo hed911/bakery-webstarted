@@ -1,4 +1,4 @@
-Flowspace Bakery.
+Flowspace Bakery
 ================
 
 Flowspace Bakery is an artisanal digital bakery, crafting the finest digital cookies in New York City.
