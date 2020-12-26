@@ -25,4 +25,3 @@ This application requires:
 - Ruby 2.6.2
 - PostgreSQL server running on localhost
 - Redis server running on localhost
-
